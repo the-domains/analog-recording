@@ -1,0 +1,14 @@
+layout_spectrum: 0.0056519536301493645
+typography_spectrum: 0.8604671228677034
+color:
+  brandStrength: 0.06603900925256312
+  lightness: 0.6635177538264543
+  saturation: 0.16086254245601594
+  rhythmicContrast: 0.4550751131027937
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: analog recording
