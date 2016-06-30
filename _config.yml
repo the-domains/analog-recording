@@ -1,4 +1,3 @@
-layout_spectrum: 0.0056519536301493645
 typography_spectrum: 0.8604671228677034
 color:
   brandStrength: 0.06603900925256312
@@ -11,4 +10,11 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.0056519536301493645
+author:
+  name: Ralph
+  email: ralph@2inch-records.ch
+  url: www.2inch-records.ch
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a0dfed-4326-49b7-9bda-5ba9fd946f2d.eps
 name: analog recording
