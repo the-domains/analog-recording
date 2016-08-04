@@ -27,8 +27,8 @@ app_links:
     namespace: google
     package: com.instagram.android
 title: "#gettherighttracks #2inchrecords is up and running..\uD83D\uDC4D it's pure #fun2analogtape enjoy #analogevents & #live2tape sessions ... #tapeisrollin enjoy the fully refurbished #trident80b and legendary sounding #studera80"
-datePublished: '2016-08-04T19:50:12.983Z'
-dateModified: '2016-08-04T19:50:12.553Z'
+datePublished: '2016-08-04T19:54:58.722Z'
+dateModified: '2016-08-04T19:54:58.521Z'
 description: ''
 via: {}
 sourcePath: _posts/2016-08-04-gettherighttracks-2inchrecords-is-up-and-running-its.md
