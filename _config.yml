@@ -18,4 +18,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a40ebab0-7475-4cdf-bdbf-495bc71795b8.jpg
 name: analog recording
+navigation:
+  - name: Trident 80B
+    id: d0404d25-cead-4f32-8bdf-0dc156ee4174
+    type: content
 title: tape is rolling
