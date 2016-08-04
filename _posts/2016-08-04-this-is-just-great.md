@@ -1,13 +1,13 @@
 ---
 description: This is just great!
-dateModified: '2016-08-04T20:01:06.304Z'
-datePublished: '2016-08-04T20:01:25.531Z'
+dateModified: '2016-08-04T20:01:55.201Z'
+datePublished: '2016-08-04T20:01:55.384Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-this-is-just-great.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
