@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-04T20:02:54.913Z'
+datePublished: '2016-08-04T20:03:27.546Z'
 sourcePath: _posts/2016-08-04-this-is-just-great.md
 author: []
 via: {}
-dateModified: '2016-08-04T20:02:54.449Z'
+dateModified: '2016-08-04T20:03:26.967Z'
 title: Studer A80 MK1
 publisher: {}
 description: This is just great!
@@ -18,4 +18,4 @@ _type: MediaObject
 
 This is just great!
 
-<iframe src="https://the-grid.github.io/ed-location/?latitude=47.054&amp;longitude=8.5302&amp;zoom=12&amp;address=Arth%2C%20Schwyz%2C%20Switzerland" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=12&amp;address=Arth%2C%20Schwyz%2C%20Switzerland" style=""></iframe>
