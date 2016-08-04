@@ -26,17 +26,15 @@ app_links:
     type: android
     namespace: google
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/BIIuCLQjxVK/?taken-by=ralphzuend'
 title: "#gettherighttracks #2inchrecords is up and running..\uD83D\uDC4D it's pure #fun2analogtape enjoy #analogevents & #live2tape sessions ... #tapeisrollin enjoy the fully refurbished #trident80b and legendary sounding #studera80"
-datePublished: '2016-08-04T19:47:19.993Z'
-dateModified: '2016-08-04T19:42:41.941Z'
+datePublished: '2016-08-04T19:50:12.983Z'
+dateModified: '2016-08-04T19:50:12.553Z'
 description: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-gettherighttracks-2inchrecords-is-up-and-running-its.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: gettherighttracks-2inchrecords-is-up-and-running-its/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
