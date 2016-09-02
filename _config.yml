@@ -1,25 +1,37 @@
-typography_spectrum: 0.8604671228677034
-color:
-  brandStrength: 0.06603900925256312
-  lightness: 0.6635177538264543
-  saturation: 0.16086254245601594
-  rhythmicContrast: 0.4550751131027937
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.0056519536301493645
 author:
   name: Ralph
   email: ralph@2inch-records.ch
   url: www.2inch-records.ch
+title: tape is rolling
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a40ebab0-7475-4cdf-bdbf-495bc71795b8.jpg
-name: analog recording
+color:
+  saturation: 0.1608625424560159
+  brandStrength: 0.06603900925256312
+  lightness: 0.6635177538264543
+  brandColors:
+    - '#020204'
+    - '#252523'
+    - '#FFFFFF'
+    - '#82716A'
+    - '#FAA934'
+  rhythmicContrast: 0.4550751131027937
+typography_spectrum: 0.8604671228677034
 navigation:
   - name: Trident 80B
     id: d0404d25-cead-4f32-8bdf-0dc156ee4174
     type: content
-title: tape is rolling
+layout_spectrum: 0.005651953630149364
+name: analog recording
